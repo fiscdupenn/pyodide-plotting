@@ -43,7 +43,7 @@ import base64
 # Generate plot
 plt.figure()
 plt.plot([0, 1, 2, 3], [0, 1, 4, 9])
-plt.title('React Matplotlib Plot')
+plt.title('React Seaborn Plot')
 
 # Save the plot to a PNG in-memory
 buf = io.BytesIO()
